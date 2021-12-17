@@ -1,0 +1,7 @@
+[History]
+1=#P0#=mb	#P1#=Form_Load	#P2#=Proyecto1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130711140136	#P7#=0	#P8#=22	.
+2=#P0#=mb	#P1#=cmdSegundaParte_Click	#P2#=Proyecto1/Form1/cmdSegundaParte_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130712122212	#P7#=0	#P8#=3	.
+3=#P0#=mb	#P1#=cmdArchivCentro	#P2#=Proyecto1/Form1/cmdArchivCentro	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130113164045	#P7#=0	#P8#=2	.
+4=#P0#=mb	#P1#=Form_Unload	#P2#=Proyecto1/Form1/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120513213219	#P7#=0	#P8#=4	.
+5=#P0#=mb	#P1#=mf1Einicio_2SumaExcedidos	#P2#=Proyecto1/Form1/mf1Einicio_2SumaExcedidos	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120513212809	#P7#=0	#P8#=7	.
+6=#P0#=mb	#P1#=Mensaje3	#P2#=Proyecto1/Form1/Mensaje3	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120513204336	#P7#=0	#P8#=3	.
