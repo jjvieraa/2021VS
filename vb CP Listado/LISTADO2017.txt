@@ -1,0 +1,276 @@
+1.862.943-6   BUENO GARCIA             OSCAR E.                 1863,00               
+2.501.015-1   CORREA TEJERA            FERNANDO D.              280,00                
+2.511.674-3   VIERA DA CUÑA            EDISON                   280,00                
+2.516.474-0   CARBALLO                 CARLOS ALBERTO           2620,00               
+2.535.029-0   MOREIRA                  ITALO ALEJANDRO          1501,00               
+2.542.606-5   VARGAS STECCIA           ANGEL D.                 280,00                
+2.566.114-6   DUARTE CARBALLO          WILDER JOSE              840,00                
+2.581.214-9   MOREIRA LEITES           JOSE ENRIQUE             280,00                
+2.585.407-0   CARNEIRO FEO             RITA MARIELA             280,00                
+2.589.637-1   BORBA FREITAS            OSCAR DANIEL             2470,00               
+2.593.509-2   BARRIOS CARDOZO          VICTOR A                 280,00                
+2.594.273-6   SILVA LEMOS              VICTOR HUGO              280,00                
+2.627.870-8   BUENO DA SILVA LEITES    PABLO MARCELO            280,00                
+2.630.461-2   BORGES FONTES            RUDEMAR A.               280,00                
+2.639.679-2   CARDOZO SUAREZ           OSCAR M.                 280,00                
+2.642.476-7                                                     1937,00               
+2.658.347-8   PEREIRA LEYES            JORGE ROBERTO            280,00                
+2.691.625-1   RODRIGUEZ RIBEIRO        HENRY D.                 4405,00               
+2.691.626-7   FERNANDEZ GONZALEZ       ALCIDES                  8268,00               
+2.694.181-8   BROCHADO LIMA            CLAUDIO M.               280,00                
+2.695.598-6   DEFENDI ALARENQUE        GASTON                   531,00                
+2.708.700-5   CARDOZO SUAREZ           KAREN MALENA             20118,00              
+2.727.589-8   LEAL AYALA               GABRIELA REGINA          2007,00               
+2.744.896-4   LEITES SILVEIRA          FERNANDO                 280,00                
+2.748.123-1   GONZALEZ RIBEIRO         MIGUEL A.                280,00                
+2.758.303-7   SANDIN DE LOS SANTOS     JUAN ARIEL.              12298,00              
+2.772.981-1   AYALA DUARTE             ZELMAR                   1321,00               
+2.802.401-2   RODRIGUEZ SALMANTON      DANIEL                   280,00                
+2.841.482-9   ALVEZ MOREIRA            ROBERTO                  280,00                
+2.846.397-7   FURTADO VIERA            EDGAR GENARO             280,00                
+2.852.624-2   VERRI PEREIRA            JORGE DANIEL             846,00                
+2.868.824-3   MENDEZ SUAREZ            CÉSAR ARIEL              4284,00               
+2.876.412-1   PEREIRA VARGAS           HEBER                    5878,00               
+2.903.346-0   LARROSSA PEDROSO         MAIKEL                   280,00                
+2.912.511-6   MARTINEZ DA CUNHA        VIVIANA GRACIELA         5320,00               
+2.920.047-9   PARREÑO DUARTE           JAVIER                   11872,00              
+2.932.002-9   SILVA                    SEBASTIAN                280,00                
+2.941.988-6   FROS GONZALEZ            SERGIO                   280,00                
+2.946.369-9   DA SILVA OLIVERA         VICTOR EDUARDO           1728,00               
+2.975.959-9   DIAZ LEITES              JUAN EDUARDO             280,00                
+2.976.708-3   MORAES MACIEL            FABRICIO                 280,00                
+2.980.863-3   VANERIO ECHENAGUSIA      CLAUDIA                  280,00                
+3.047.851-6   CASARAVILLA RODRIGUEZ    VANIR IVAN               280,00                
+3.050.000-4   CARDOZO PEREZ            RUBEN                    280,00                
+3.057.938-0   MENESES CORREA           OSMAR                    280,00                
+3.068.911-9   GONZALEZ SILVEIRA        TADEO                    280,00                
+3.081.576-8   MACHADO CARDOZO          JOSE JUSTINO             32561,00              
+3.096.859-1   VIERA ROCHA              MILTON ALEJANDRO         4845,00               
+3.098.587-4   PEREIRA LEAL             LUIS EDUARDO             719,00                
+3.112.353-8   RIBEIRO PEÑAFLOR         GLADYS B.                280,00                
+3.145.890-3   VIÑAS SOARES DE LIMA     CLAUDIO                  280,00                
+3.150.728-5   TORRES GONSALVES         RONNIE VON               280,00                
+3.157.532-9   TECHERA SILVA            JOSE M.                  280,00                
+3.165.639-1   DE FREITAS GUEDES        HENRY JONATAN            64598,00              
+3.192.461-3   MACHADO RIBERO           RAMON D.                 280,00                
+3.200.229-2   BISIO RIOS               SAMUEL                   3203,00               
+3.207.002-9   DE LOS SANTOS DE LEON    OSCAR                    280,00                
+3.225.028-7   LEAL GONZALEZ            ROBERTO                  6525,00               
+3.225.037-8   MUNIZ REFFIEL            EDMUNDO                  280,00                
+3.242.186-6   PINTOS SILVA             JULIO CESAR              1049,00               
+3.248.464-0   MACIEL NUÑEZ             ALDO N.                  17523,00              
+3.248.589-8   CARDOZO                  GERARDO RAMON            2690,00               
+3.263.987-1   ROMAN DOS SANTOS         ANGEL                    280,00                
+3.286.236-5   BOTTINO CUSTODIO         LEONARDO                 280,00                
+3.286.237-1   BOTTINO CUSTODIO         KARINA                   280,00                
+3.297.959-0   UBAL TORRES              CLAUDIO A.               5659,00               
+3.304.881-3   CARDOZO IPARRAGUIRRE     EDUARDO                  1215,00               
+3.308.342-3   BARBOZA MACHADO          NESTOR F.                2020,00               
+3.314.499-4   MOREIRA SILVA            RAMONA YANET             280,00                
+3.354.735-8   GOMEZ TECHERA            ADAN WALTER              280,00                
+3.406.329-6   MADRUGA RODRIGUEZ        PEDRO                    2523,00               
+3.412.020-2   PEDROZO RODRIGUEZ        EDIS                     41190,00              
+3.422.929-2   DUARTE SANCHEZ           CARLOS                   142764,00             
+3.453.405-3   SANTANA RODRIGUEZ        MARCELO                  1527,00               
+3.462.939-7   ALVEZ TAPIA              EDILSON                  280,00                
+3.488.707-8   DE LOS SANTOS ECHEVERRITOELBIO                    10440,00              
+3.495.195-8   SANSO RIVERO             MIGUEL ANGELO            280,00                
+3.502.293-4   MACHADO RIVERO           ETELVINO                 280,00                
+3.517.174-9   SANTOS RAMOS             CARLOS MARIA             280,00                
+3.520.286-3   ARRUPE                   FERNANDO FABIAN          6000,00               
+3.533.860-8   FEO MACHADO              JORGE DANILO             280,00                
+3.558.265-3   TORRES LYINCH            HECTOR                   280,00                
+3.558.404-3   BICHINQUE DE LOS SANTOS  ANABEL                   280,00                
+3.564.251-2   PICAPEDRA JURI           WASHINGTON               280,00                
+3.565.409-6   BARBOZA DE LEON          WALDEMAR                 1905,00               
+3.580.070-4   ROSA RODRIGUEZ           DANILO FABRICIO          280,00                
+3.581.981-6   RUECO CLAVIJO            MARIELA                  1207,00               
+3.626.010-9   BRAVO                    GUSTAVO DANIEL           1962,00               
+3.630.928-4   GALDOS GONCALVES          KENRY                   5280,00               
+3.641.503-9   DA SILVA NUÑEZ           MARIA YUDIT              280,00                
+3.643.111-4   ECHAVALETE MONGE         WASHINGTON               280,00                
+3.645.565-5   FAGUNDEZ F.              WASHINGTON               280,00                
+3.645.567-7   DA SILVA ANTUNEZ         NUBER D.                 2115,00               
+3.645.648-3   SUAREZ                   HERMES LUIS              280,00                
+3.676.124-4   DE MELLO                 VICTOR MANUEL            27779,00              
+3.693.656-2   DELGADO LAGUNA           ALEJANDRO                280,00                
+3.727.726-4   SILVEIRA BROCHI          ANTONIO PAULO            280,00                
+3.733.982-0   CARNEIRO LEITES          EDUARDO                  280,00                
+3.751.064-0   DEL PINO SILVA           PABLO F.                 84844,00              
+3.755.318-3   LEAL BEHENER             RODOLFO                  280,00                
+3.760.576-8   ETCHECHURY MARQUEZ       SANTA EDA                1402,00               
+3.771.969-0   CARBALLO TAROCO          EMILSON                  24180,00              
+3.803.537-4   COTTENS LEMES            MIGUEL A.                280,00                
+3.807.055-8   SILVA BANDERA            GILLIAR EDUARDO          280,00                
+3.834.153-7   ANTUNEZ RIVERO           GABRIELA                 280,00                
+3.838.389-4   DOS SANTOS BRASIL        LUIS G.                  879,00                
+3.839.578-2   MORAES MACIEL            MARCOS                   280,00                
+3.839.579-8   MORAES MACIEL            MARCIO                   1168,00               
+3.843.184-3   HERNANDEZ PACHECO        MARIO GUSTAVO            280,00                
+3.883.035-8   GONZALEZ VALDIR          CARLOS JAVIER            280,00                
+3.893.099-6   PAZ MENESES              PEDRO RAUL               3010,00               
+3.903.527-8   DOS SANTOS CORREIA       MARIO ANDRES             6397,00               
+3.920.654-0   PEREZ BANDERA            WILLIAM                  2176,00               
+3.921.411-9   GARCIA REINA             SERGIO FERNANDO          10788,00              
+3.924.157-0   DUARTE VIDAL             MARCOS NOEL              3063,00               
+3.925.492-3   ALMADA LIMA              LILIAN KAREN             1680,00               
+3.971.178-1   VIERA DE SOUZA           ALFREDO                  280,00                
+3.975.853-7   GONZALEZ CUÑA            CARLOS FABIAN            560,00                
+3.998.204-7   PEREIRA NUÑEZ            ROSENDO                  280,00                
+4.005.264-1   ALONSO TEJERA            GISEL                    280,00                
+4.012.690-7   VIERA RODRIGUEZ          NESTOR F.                46972,00              
+4.017.219-4   DOS SANTOS LOPEZ         JOSE ANDRES              280,00                
+4.029.320-9   LEMOS MENDEZ             PABLO                    280,00                
+4.034.233-7   SILVA RODRIGUEZ          HECTOR FABIAN            6489,00               
+4.070.130-1                                                     1177,00               
+4.074.204-0   OLIVERA GUEDES           ANDRES                   280,00                
+4.074.465-6   CARDOZO RAMOS            ALEJANDRO                3210,00               
+4.077.748-1   CASTILLO TURNES          SANDRO                   143007,00             
+4.104.404-5   BARRIAL PEREIRA          NESTOR F.                280,00                
+4.105.633-1   VARELA SUAREZ            JONY                     280,00                
+4.107.256-3   MONTAÑA LEMES            MONICA PATRICIA          716,00                
+4.110.037-8   ROSA VIERA               EDUARDO ANDRES           280,00                
+4.122.805-5   DE VARGAS OSORIO         JORGE ANGEL              280,00                
+4.128.301-9   RODRIGUEZ MAGDALENO      YONATAN                  2768,00               
+4.128.444-9   GUEDES MADRUGA           KAREN MACARENA           280,00                
+4.129.255-7   ALZAIBAR DUTRA           GUILLERME                280,00                
+4.149.901-0   SILVEIRA PEDROZO         MARCELO FABIAN           10711,00              
+4.150.240-9   SILVA MARTINEZ           PABLO OMAR               15203,00              
+4.159.066-8   BARBOZA GONÇALVEZ        JEFERSON LUIS            4656,00               
+4.167.337-1   GONZALEZ LATORRE         ALEJANDRO                9190,00               
+4.170.041-1   DUTRA DE SOUZA           ROBERT RICHARD           280,00                
+4.173.335-9   SILVA RODRIGUEZ          JONATAN                  2080,00               
+4.181.646-0   RODRIGUEZ RIBEIRO        RICHARD                  2248,00               
+4.181.791-9   SUAREZ RODRIGUEZ         PEDRO SEBASTIAN          2063,00               
+4.182.922-7   CORREA TEJERA            NESTOR RODOLFO           32298,00              
+4.183.380-6   DA CUÑA PIREZ            JEIMY                    280,00                
+4.183.395-3   NUÑEZ RODRIGUEZ          JOSE WIRLEY              280,00                
+4.183.967-8   AQUINES BARBOZA          DERLY ANDRES             280,00                
+4.185.208-0   MACHADO MARQUEZ          CARLOS G.                1858,00               
+4.187.543-6   DENIS RIVAS              WALTER ANDRES            280,00                
+4.187.545-8   FARIAS MACHADO           GREYCE                   1257,00               
+4.187.588-4                                                     280,00                
+4.190.856-4   ESPINOSA CORREA          VICTOR HUGO              280,00                
+4.190.873-0   PEREZ SUAREZ             MAKARENA                 3897,00               
+4.192.877-0   CONDE PALLEROS           RUBEN DAMIAN             280,00                
+4.194.903-7   COSTA ANTUNEZ            LETICIA DANIELA          7605,00               
+4.194.904-3   COSTA ANTUNEZ            LUIS EDUARDO             2310,00               
+4.195.899-5                                                     280,00                
+4.198.425-5   DORNEL PEREZ             LUIS ALBERTO             280,00                
+4.214.270-5   DE LEON                  WILLIAM                  280,00                
+4.220.359-9   SCOTTO RAMIREZ           HEBER MARIO              280,00                
+4.227.426-5   ROSAS SILVA              SEBASTIAN ENRIQUE        2182,00               
+4.229.115-6   GONZALEZ MARTINEZ        EURIDES                  1541,00               
+4.235.595-8   LIMA NUÑEZ               MARCELO                  4151,00               
+4.240.956-9   ALPUY                    PABLO                    9007,00               
+4.241.750-8   BURGOS HORNES            SERGIO ANDRES            5603,00               
+4.259.176-0                                                     705,00                
+4.262.272-1   PADILLA OLIVERA          MICAELA FERNANDA         62333,00              
+4.264.538-7   NOGUEIRA                 MAHICOL                  2123,00               
+4.268.968-6   UMPIERREZ AGRADER        ANDERSON                 1947,00               
+4.273.035-8   BARBOZA MARTINEZ         FERNANDO                 4022,00               
+4.285.670-8   MONTEJO FERNANDEZ        YONATHAN MARCOS          2184,00               
+4.287.072-2   BUSTAMANTE NUÑEZ         FLAVIO ENRIQUE           1316,00               
+4.289.022-3   SANDIN                   DIEGO OMAR               280,00                
+4.291.954-0   RODRIGUEZ TRINDADE       YEFFERSON                280,00                
+4.293.548-7   HERNANDEZ PEREIRA        JULIO                    33863,00              
+4.303.390-9   ESPINOSA PRETO           RICHARD DANIEL           2141,00               
+4.307.046-0   GONZALEZ LOPEZ           DIEGO                    2910,00               
+4.307.054-5   SUAREZ BOTTINO           RONEY FABRICIO           4760,00               
+4.307.842-8   PIÑEIRO                  YONY GABRIEL             32708,00              
+4.309.718-5   DENIS CACERES            ANA LAURA                280,00                
+4.310.333-8   IGLESIAS DE LOS SANTOS   EDISON                   953,00                
+4.311.416-9   DUARTE SANTANA           RICHARD                  280,00                
+4.311.880-8   DE LOS SANTOS LEMOS      MARCOS SANTIAGO          280,00                
+4.316.345-5   LACERDA ARAUJO           WASHIGTON RODRIGO        280,00                
+4.325.206-8   MOREIRA SANDIN           LEONARDO MARTIN          3239,00               
+4.329.850-3   BARBOZA SERNAIZ          DIEGO FABIAN             280,00                
+4.341.654-9   ESCOBAR RODRÍGUEZ        SERGIO FABIÁN            280,00                
+4.345.589-8   FLOREZ RODRIGUEZ         ALEJANDRO                280,00                
+4.348.442-3   RODRIGUEZ ZAPATA         EDUARDO FLAVIO           9061,00               
+4.349.777-9   BATALLA  CAILLAVA        PABLO VICENTE            560,00                
+4.353.966-8                                                     560,00                
+4.361.872-3                                                     280,00                
+4.365.720-4   REYES RODRIGUEZ          MARIA DE FATIMA          1637,00               
+4.366.880-3   LEMES BARBOZA            JORGE DANIEL             280,00                
+4.370.536-6   CLAVIJO TECHEIRA         MARCOS ROBERTO           280,00                
+4.370.884-1   BENITES VILLAGRAN        WILMAR                   1601,00               
+4.384.902-1   PERALTA                  ANIBAL FABIAN            1366,00               
+4.387.576-7   DUFRECHU OLIVERA         RUBEN  DANIEL            847,00                
+4.389.680-8                                                     2147,00               
+4.395.073-5   CASTRO BALLESTEROS       CYNTIA                   280,00                
+4.413.488-7   RIVERO FREITAS           DIEGO MARTIN             280,00                
+4.417.545-7   BUERE BARRETO            FREDDY DANIEL            280,00                
+4.423.089-9   BITENCOURT               SILVINA                  19694,00              
+4.425.356-8   GONZALEZ MARICHAL        EMMILY                   1976,00               
+4.425.985-7   GOMEZ DE FREITAS         MARIO JORGE              9155,00               
+4.436.354-1                                                     1991,00               
+4.448.714-7   DE FREITAS LEITE         CARLOS EDGARDO           280,00                
+4.450.452-9   MACHADO VARGAS           WAGNER DIRLEY            1850,00               
+4.459.106-3   SANDIN                   JONATHAN EVARISTO        3035,00               
+4.459.976-4   SILVERO DOS SANTOS       GIANFRANCO               4649,00               
+4.460.065-0                                                     280,00                
+4.460.958-7   ECHEVERRIA DA ROSA       LUIS ANDRES              280,00                
+4.463.921-3   SOSA CASTRO              LUIS EDUARDO             840,00                
+4.483.471-2   SAAVEDRA CASARAVILLA     SERGIO FABIAN            7940,00               
+4.486.997-1   VIERA MADERA             GONZALO ANDRES           280,00                
+4.493.026-3   NUÑEZ GOMEZ              JORGE ALEXIS             4472,00               
+4.493.577-4   ZANGUINETTI GUEDEZ       LUIS ADRIANO             280,00                
+4.495.302-3   DA SILVA  DA SILVEIRA    DOUGLAS JAVIER           2220,00               
+4.495.432-8   LOPEZ SILVA              ANDRES YIOVANI           280,00                
+4.507.162-6   MOREIRA                  PAUL JHONATAN            280,00                
+4.508.168-5   PIREZ ROMERO             MARCELO RAFAEL           280,00                
+4.509.927-6   OLIVERA CONCILIO         OSCAR A.                 280,00                
+4.512.994-8   CARDOZO CHIBIAQUI        VERA LUCIA               280,00                
+4.515.240-0   GUILLINEA FREITAS        CARLOS JESUS             3838,00               
+4.522.168-1   AVENATTI NUÑEZ           GIANFRANCO               37548,00              
+4.526.808-9   OLIVERA RODRIGUEZ        CLAUDIA ANDREA           8117,00               
+4.539.562-4   ROLDAN DOS REIS          NELSON MANUEL            1500,00               
+4.547.971-7   RODRIGUEZ RIVERO         CARLOS SEBASTIAN         280,00                
+4.551.160-6                                                     595,00                
+4.556.658-2                                                     1816,00               
+4.573.523-2   LOPEZ PINTOS RODRIGUEZ   PABLO MICHEL             280,00                
+4.573.544-2   GARCIA FARIAS            ANDERSON IVAN            2294,00               
+4.592.003-9   GOMEZ BARBOZA            DERLY                    156840,00             
+4.597.661-8                                                     1994,00               
+4.606.267-8   UGARTE DODERA            SERGIO ARIEL             280,00                
+4.628.117-9   DIAZ VIQUE               MAIKON                   280,00                
+4.629.149-5   VIEIRA FREITAS           MAGDALENA ELIZABETH      280,00                
+4.640.364-4   DOMINGUEZ CAMPOS         ANA PAULA                280,00                
+4.641.144-5   CASTRO CUÑA              LUCIANA                  280,00                
+4.647.438-2   CAMARGO PINTOS           JEFFERSON GUSTAVO        280,00                
+4.651.426-7   PACHECO MONTAÑO          RAUL                     280,00                
+4.668.775-1   TORT OTAZU               ALEJANDRO JULIAN         13532,00              
+4.672.356-1   DUARTE DITANCOURT        JENIFER ALEXANDRA        280,00                
+4.710.656-6   MACHADO SUAREZ           LILIAN                   287,00                
+4.729.960-8   MELO TEJERA              ANA LAURA                1400,00               
+4.742.815-2                                                     280,00                
+4.755.867-0   BONILLA PEREIRA          ALEXIS JAVIER            63656,00              
+4.759.714-5   SUAREZ PINTOS            DAHIANA JIMENA           1585,00               
+4.780.789-3   COORE OLIVERA            MARCIA LORENA            280,00                
+4.784.450-8   RODRIGUEZ RODRIGUEZ      BRAULIO OSMAR            280,00                
+4.785.642-4   FAGUNDEZ COITIÑO         ALVARO GABRIEL           280,00                
+4.811.000-5                                                     280,00                
+4.823.692-2                                                     280,00                
+4.824.454-1                                                     560,00                
+4.828.034-3   GONZALEZ DAMACENA        PATRICIA                 280,00                
+4.835.088-5   ETCHECHURY NUÑEZ         CLAUDIO DANIEL           280,00                
+4.838.187-2   CAZENAVE MENDEZ          ANDRES                   3555,00               
+4.844.635-5   CARABACA MUÑOZ           YANINE                   280,00                
+4.900.631-2   BARCELO CAMARGO          ROMULO IVAN              280,00                
+4.918.723-7   MEDEIROS DE SOUZA        RAFAEL                   7717,00               
+4.961.319-9   DE OLIVEIRA SAAVEDRA     LUIS ENRIQUE             280,00                
+4.962.104-7   VELLEDA SUAREZ           JUAN PEDRO               1162,00               
+4.998.420-3   DUARTE BICA              CRISTOFER HUGO           280,00                
+5.057.639-0   PIRES SANDES             NICOLAS                  280,00                
+5.062.923-6   FLORES CARBALLO          CARLOS ADRIAN            280,00                
+5.064.725-6   BARBOZA GONCALES         GREGORY ANDREY           970,00                
+5.081.493-6   MARTINEZ CABRERA         CINTYA MACARENA          15338,00              
+5.083.075-4   BIZERA ARBELLO           CRISTOPHER FABIAN        280,00                
+5.087.449-5   ALVEZ PEREZ              JEAN PAULO               13690,00              
+5.094.938-5   RODRIGUEZ NUÑEZ          RAMIRO                   280,00                
+5.120.899-4   ARANDA DA SILVA          JONATHAN DAMIAN          13690,00              
+5.129.146-0   HIGGIE IGNACIO           ELEONORA                 280,00                
+5.139.153-1   RODRIGUEZ REYES          RAMON EDUARDO            840,00                
+5.158.314-8                                                     2164,00               
+5.290.448-2   LEIVAS NOGUEIRA          JOSE ALFREDO             280,00                
